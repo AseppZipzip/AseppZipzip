@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">⚡ Asepzipzip — Hobi Rodok</h1>
+<p align="center"><i>"embrace the uncertainty of life.."</i></p>
 
-<!--
-**AseppZipzip/AseppZipzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF99&center=true&vCenter=true&width=480&lines=jawa+jawa+jawa+jawa+jawa+jawa+jawa+jawa+jawa+jawa+jawa;Automation+Is+Art;+Aku+Sigmaaa" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 About Me
+
+> Gw Sigma
+> Suka ngepormt ke gemini
+
+```js
+const Wanjay = {
+  nick: "Asep",
+  alias: "Asep Zipzip",
+  location: "Indonesian",
+  focus: [
+    "Turu",
+  ],
+  principle: "Jembwut",
+  motto: "Sigma"
+}
